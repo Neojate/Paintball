@@ -198,7 +198,10 @@ namespace Proyecto
             TitleScreen.showMenu = true;
             ScreenManager.UnloadScreen("OptionsScreen");
         }
+
         #endregion
+
+        #region METODOS PRIVADOS
 
         /** Cambiar la resolución */
         private int getResolutionPos()
@@ -209,6 +212,8 @@ namespace Proyecto
             }
             return 0;
         }
+
+        #endregion
     }
 }
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/options/rightArrow.png</SourceFile>
-  <SourceTime>2019-05-28T17:57:31.1009434+02:00</SourceTime>
-  <DestFile>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/bin/Windows/Content/GFX/options/rightArrow.xnb</DestFile>
-  <DestTime>2019-05-28T20:16:08.3423154+02:00</DestTime>
+  <SourceFile>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/options/rightArrow.png</SourceFile>
+  <SourceTime>2019-06-03T19:42:24.0181732+02:00</SourceTime>
+  <DestFile>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/bin/Windows/Content/GFX/options/rightArrow.xnb</DestFile>
+  <DestTime>2019-06-03T19:43:18.4991504+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

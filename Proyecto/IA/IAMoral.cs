@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Proyecto
 {
-
     public enum IAType
     {
         SCOUT_LEFT, SCOUT_RIGHT, COVER, MARAUDER
@@ -41,9 +40,7 @@ namespace Proyecto
         private bool firstStep;
 
         //disparos de la IA
-        private int shootRange;
-
-        
+        private int shootRange;        
 
         public IAMoral(IAType iaType, Vector2 initialPos)
         {
@@ -62,6 +59,7 @@ namespace Proyecto
 
         }
 
+        /** Incrementa el índice de la lista de nodos */
         public void incrementNodeIndex()
         {
             indexNode++;
@@ -72,11 +70,13 @@ namespace Proyecto
             }
         }
 
+        /** Comprueba si es el nodo final */
         public bool isFinalNode()
         {
             return indexNode == nodes.Count - 1;
         }
 
+        /** Calcula cual es el siguiente nodo habilitado */
         public void calculateNextNode(Player player)
         {
             Random rnd = new Random();
@@ -102,15 +102,9 @@ namespace Proyecto
             fatherNode = destinyNode;
 
             calculateHedge(player);
-
-            //moveOnHedge(player);
-            //destinyNode = destinyNode.getAvaliableNodes()[rnd.Next(0, destinyNode.getAvaliableNodes().Count)];
-            
-
-
-            //destinyNode = destinyNode.getAvaliableNodes()[rnd.Next(0, destinyNode.getAvaliableNodes().Count)];
         }
 
+        /** Comprueba si ha llegado al nodo actual */
         public bool checkSite(Vector2 currentPosition)
         {
             return currentPosition == destinyNode.getPosition();
@@ -120,6 +114,7 @@ namespace Proyecto
 
         #region MÉTODOS PRIVADOS
         
+        /** Crea la lista de nodos */
         private void createNodes()
         {
             nodes = new List<Node>();
@@ -135,6 +130,7 @@ namespace Proyecto
             nodes.Add(new Node(new Vector2(18, 12)));   //9
         }
 
+        /** Calcula la posición de la cobertura */
         private void calculateHedge(Player player)
         {
 
@@ -158,6 +154,7 @@ namespace Proyecto
 
         }
 
+        /** Se mueve entre la cobertura */
         private void moveOnHedge(Player player)
         {
             if (destinyNode.getPosition().Y <= player.getElementPos().Y)

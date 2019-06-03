@@ -10,7 +10,7 @@ namespace Proyecto
         public String screens = "";
         public String focusScreen = "";
         
-        //Contador de fps
+        //Contador de fps 
         private int fps;
         private int fpsCounter;
         private Double fpsTimer;

@@ -112,6 +112,7 @@ namespace Proyecto
         #endregion
 
         #region METODOS PRIVADOS
+
         /** Creación de la interfaz */
         private void createInterface()
         {
@@ -193,6 +194,5 @@ namespace Proyecto
         }
 
         #endregion
-
     }
 }

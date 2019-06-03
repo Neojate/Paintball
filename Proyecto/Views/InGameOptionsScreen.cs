@@ -47,6 +47,7 @@ namespace Proyecto
         }
 
         #region LISTENERS
+
         /** Cierra la vista InGameOptions para poder seguir jugando */
         public static void continuePlaying()
         {
@@ -64,9 +65,11 @@ namespace Proyecto
             ScreenManager.AddScreen(new StageScreen());
             inGameActive = false;
         }
+
         #endregion
 
         #region METODOS PRIVADOS
+
         /** Creación de la interfaz */
         private void createInterface()
         {
@@ -87,6 +90,7 @@ namespace Proyecto
                 components.Add(new Button<InGameOptionsScreen>(new Rectangle((int)column + 1, (int)rows[i] + 1, (int)buttonSize.X - 2, (int)buttonSize.Y - 2), Textures.background_menu, Textures.hoverButton, actions[i], null, menuCode[i], true));
             }
         }
+
         #endregion
     }
 }

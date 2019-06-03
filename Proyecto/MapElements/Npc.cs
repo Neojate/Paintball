@@ -8,19 +8,13 @@ using System.Threading.Tasks;
 
 namespace Proyecto
 {
-
-
-
     class Npc : HumanElement
     {
         //constantes
-        private const int ACCU_RANGE = 500;
-        
-        //camara
-        private Camera camera;
+        private const int ACCU_RANGE = 500;        
 
         //randoms
-        static Random random;
+        private static Random random;
 
         //tipo
         IAType iaType;
@@ -109,8 +103,7 @@ namespace Proyecto
             {
                 GameScreen.map.numberEnemies--;
                 GameScreen.map.deleteElements.Add(this);
-            }
-                      
+            }                      
         }
 
         public override void draw()
@@ -171,10 +164,9 @@ namespace Proyecto
             return random.Next(min, max);
         }
 
-
-
         #region MÉTODOS PRIVADOS
 
+        /** Calcula la porción de textura que tiene que utilizar el enemigo */
         private Rectangle calculateSlice()
         {
             int look = 0;
@@ -183,35 +175,18 @@ namespace Proyecto
             return new Rectangle(0, look * (int)elementSize.Y, (int)elementSize.X, (int)elementSize.Y);
         }
 
+        /** Activa el movimiento del personaje enemigo */
         private void conductMoveOn()
         {
-            /*if (checkSite())
-            {
-                if (iaMoral.isFinalNode() && !iaMoral.isRepeatNodes()) return;
-
-                moveTime += Globals.gameTime.ElapsedGameTime.TotalMilliseconds;
-
-                if (moveTime <= iaMoral.getPauseTime()) return;
-                moveTime = 0;
-
-                iaMoral.incrementNodeIndex();
-                triangleMove = calculateMovementTrigonometry();
-                moveTime += Globals.gameTime.ElapsedGameTime.TotalMilliseconds;
-                
-                
-
-            }
-            moveNpc(triangleMove);*/
-
             if (iaMoral.checkSite(elementPos))
             {
                 iaMoral.calculateNextNode(player);
                 triangleMove = calculateMovementTrigonometry();
             }
             moveNpc(triangleMove);
-
         }
 
+        /** Calcula el movimiento del personaje enemigo en dirección recta */
         private Vector3 calculateMovementTrigonometry()
         {
             int tileSize = Tile.TILE_SIZE;
@@ -221,6 +196,7 @@ namespace Proyecto
             return new Vector3(x, y, h);
         }
 
+        /** Mueve el enemigo a través del mapa */
         private void moveNpc(Vector3 triangle)
         {
             elementOffset.X += (triangle.X / triangle.Z) * elementSpeed;
@@ -228,11 +204,7 @@ namespace Proyecto
             calculateOffsets();
         }
 
-        /*private bool checkSite()
-        {
-            return elementPos == iaMoral.getDestinytNode();
-        }*/
-
+        /** Activa los disparos del enemigo */
         private void conductShootOn()
         {
             shootTime += Globals.gameTime.ElapsedGameTime.TotalMilliseconds;
@@ -248,6 +220,7 @@ namespace Proyecto
             }
         }
 
+        /** Hace disparar al enemigo */
         private void shoot()
         {
             triangleShoot = calculateTriangle(randomDestiny);
@@ -259,6 +232,8 @@ namespace Proyecto
             GameScreen.map.auxElements.Add(new Shoot(camera, elementPos, elementOffset, elementSize, accuracy, ShootFrom.ENEMY, destiny));
         }
 
+        /** Calcula el disparo aleatorio del enemigo */
+        /** randomDestiny = dispersión del disparo enemigo */
         private Vector3 calculateTriangle(Vector2 randomDestiny)
         {
             float x = (player.getElementScreenPos().X + player.getElementOffset().X + randomDestiny.X + player.getElementSize().X / 2) - (elementScreenPos.X + elementOffset.X + elementSize.X / 2);
@@ -267,6 +242,7 @@ namespace Proyecto
             return new Vector3(x, y, h);
         }
 
+        /** Calcula la dispersión del disparo enemigo */
         private Vector2 calculateDispersion()
         {
             Random rnd = new Random();
@@ -277,18 +253,19 @@ namespace Proyecto
             
         }
 
+        /** Calcula la razón trigonométrica del disparo del enemigo */
         private Vector2 calculateTrinometryReason()
         {
             float h = (float)Math.Sqrt(ACCU_RANGE * ACCU_RANGE + accuracy * accuracy);
             return new Vector2(accuracy / h, ACCU_RANGE / h);
         }
 
+        /** Calcula la rotación del enemigo */
         protected override float calculateRotation()
         {
             Vector3 triangle = calculateTrigonometry();
             return (float)Math.Atan2(triangle.Y, triangle.X);
         }
-
 
         #endregion
     }

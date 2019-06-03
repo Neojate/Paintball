@@ -69,7 +69,7 @@ namespace Proyecto
                             flashTick = 0;
                             flash = false;
 
-                            //Sonido relámpagos
+                            //Sonido relámpagos --Actualmente no se utiliza--
                             if (ran.Next(0, 100) < 50)
                             {
                                 //thunderSound.Play(ran.Next(10, 30) / 100, 0, 0);

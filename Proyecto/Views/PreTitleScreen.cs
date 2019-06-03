@@ -7,7 +7,7 @@ namespace Proyecto
     class PreTitleScreen : BaseScreen
     {
         //Video intro
-        VideoPlayer videoPlayer;        
+        private VideoPlayer videoPlayer;        
 
         public PreTitleScreen()
         {
@@ -41,12 +41,16 @@ namespace Proyecto
             Globals.spriteBatch.End();
         }
 
+        #region METODOS PRIVADOS
+
         /** Metodo que carga la pantalla principal */
         private void loadScreen()
         {
             videoPlayer.Stop();
             ScreenManager.AddScreen(new TitleScreen());
             ScreenManager.UnloadScreen(this.Name);
-        }        
+        }
+
+        #endregion
     }
 }

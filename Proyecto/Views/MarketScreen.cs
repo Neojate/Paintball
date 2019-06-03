@@ -13,7 +13,7 @@ namespace Proyecto
     class MarketScreen : BaseScreen
     {
         //Marcadoras
-        Marker[] markers;
+        private Marker[] markers;
 
         //Botón
         private Vector2 tabBtnSize;
@@ -96,6 +96,7 @@ namespace Proyecto
         }
 
         #region LISTENERS
+
         /** Actualiza la información de la marcadora actual */
         /** equip = marcadora actual */
         public static void weaponInfo(BaseEquip equip)
@@ -143,9 +144,11 @@ namespace Proyecto
             showAlert = false;
             exit();
         }
+
         #endregion
 
         #region METODOS PRIVADOS
+
         /** Dibujado de la interfaz */
         private void createInterface()
         {
@@ -225,6 +228,7 @@ namespace Proyecto
             int lineLength = (Globals.gameSize.X == 800) ? 50 : (Globals.gameSize.X == 1024) ? 54 : (Globals.gameSize.X == 1200) ? 60 : 69;
             return Regex.Replace(text, "(.{" + lineLength + "})", "$1" + Environment.NewLine);
         }
+
         #endregion
     }
 }

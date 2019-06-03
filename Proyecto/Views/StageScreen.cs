@@ -16,8 +16,10 @@ namespace Proyecto
             Name = "StageScreen";
             State = ScreenState.Active;
 
+            //Instacia de stageMap
             stageMap = new StageMap(new Vector2(22, 10));
-            
+
+            //colisiones
             isActive = true;            
         }
 

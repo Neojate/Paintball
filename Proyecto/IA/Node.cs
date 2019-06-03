@@ -9,9 +9,10 @@ namespace Proyecto
 {
     public class Node
     {
-
+        //Posición
         private Vector2 position;
 
+        //Nodos disponibles
         private int[] avaliableNodes;
 
         public Node(Vector2 position)
@@ -22,7 +23,8 @@ namespace Proyecto
 
 
         #region MÉTODOS PÚBLICOS
-        
+
+        /** Determina si es el mismo nodo */
         public bool isSameNode(Vector2 position)
         {
             return this.position == position;
@@ -34,6 +36,7 @@ namespace Proyecto
 
         #region MÉTODOS PRIVADOS
 
+        /** Busca los nodos disponibles en función del nodo actual */
         public void findAvaliableNodes()
         {
             Vector2 position = IAMoral.fatherNode.getPosition();

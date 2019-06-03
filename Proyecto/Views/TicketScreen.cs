@@ -106,7 +106,7 @@ namespace Proyecto
         /** Crear interfaz */
         private void createInterface()
         {
-            //Panel
+            //Panel 
             components.Add(new Panel(new Rectangle((int)columns[0], (int)rows[0], (int)columns[1], (int)rows[1]), Textures.alert_background));
 
             //Botón comprar y salir

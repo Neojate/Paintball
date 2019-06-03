@@ -39,7 +39,7 @@ namespace Proyecto
             elementPos = originPos;
             elementOffset = originOffset;
             destinyScreen = destiny;
-            this.trigonometryReason = trigonometryReason;
+            
             this.accuracy = accuracy;
 
             //Centra los disparos iniciales

@@ -7,7 +7,7 @@ namespace Proyecto
     class StageMap
     {
         //idioma
-        Language language;
+        private Language language;
 
         //mapa
         private Vector2 mapSize;
@@ -47,6 +47,7 @@ namespace Proyecto
             player = new Player(camera, new Vector2(10, 5)); 
             player.loadPlayer();           
 
+            //mapa
             loadScenario();
             loadElements();
 
@@ -54,6 +55,7 @@ namespace Proyecto
             message = language.getMessage("trigger_talk");
             messagePos = PaintToWinUtils.centerTextX(new Vector2(0, Globals.gameSize.X), Fonts.arial_12, message);
 
+            //Calcula cuanto dinero recibirá el jugador si gana la partida
             if (GameScreen.playerWin)
             {
                 int k = 0;
@@ -133,6 +135,7 @@ namespace Proyecto
                 }
             }
 
+            //texto del trigger
             if (triggerActive) Globals.spriteBatch.DrawString(Fonts.arial_12, trigger.getTriggermessage(), new Vector2(messagePos, Globals.gameSize.Y * 0.9f), Color.White);
 
             //sprite carro

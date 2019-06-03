@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/alfaHover.png</SourceFile>
-  <SourceTime>2019-05-28T17:57:31.0071704+02:00</SourceTime>
-  <DestFile>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/bin/Windows/Content/GFX/alfaHover.xnb</DestFile>
-  <DestTime>2019-05-28T20:16:07.0610025+02:00</DestTime>
+  <SourceFile>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/alfaHover.png</SourceFile>
+  <SourceTime>2019-06-03T19:42:23.9869217+02:00</SourceTime>
+  <DestFile>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/bin/Windows/Content/GFX/alfaHover.xnb</DestFile>
+  <DestTime>2019-06-03T19:43:17.7350093+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

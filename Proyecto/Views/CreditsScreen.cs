@@ -11,7 +11,7 @@ namespace Proyecto
 {
     class CreditsScreen : BaseScreen
     {
-        //Filas
+        //Filas 
         private float[] rows;
 
         //Fonts

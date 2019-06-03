@@ -18,13 +18,14 @@ namespace Proyecto
         SpriteFont font;
 
         //Posición del texto
-        Vector2 textPos;
+        private Vector2 textPos;
 
         //Contador
-        bool countTimer;
-        int firstTime;
+        private bool countTimer;
+        private int firstTime;
 
-        int timeToClose;
+        //Tiempo que tarda la pantalla en cerrar-se
+        private int timeToClose;
 
         public StartEndScreen(String text, bool countTimer)
         {
@@ -44,6 +45,7 @@ namespace Proyecto
             //Fuente
             font = Fonts.arial_60;
 
+            //Tiempo que tarda la pantalla en cerrar-se
             timeToClose = 2000;
             if (countTimer) timeToClose = 4000;
 
@@ -61,7 +63,7 @@ namespace Proyecto
                 if (firstTime >= 3000) text = "GO";
             }
 
-            //Pasados 4 segundos sale de la pantalla
+            //Pasados X segundos sale de la pantalla
             if (firstTime >= timeToClose)
             {
                 InGameOptionsScreen.inGameActive = false;

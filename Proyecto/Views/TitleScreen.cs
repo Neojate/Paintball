@@ -130,6 +130,7 @@ namespace Proyecto
             }                        
         } 
         
+        /** Salir del alert de nuevo juego */
         public static void exitAlert()
         {
             auxComponents.Add(auxComponent);

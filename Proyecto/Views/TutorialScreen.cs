@@ -11,8 +11,8 @@ namespace Proyecto
     class TutorialScreen : BaseScreen
     {
         //Fuentes
-        SpriteFont font12;
-        SpriteFont font14;
+        private SpriteFont font12;
+        private SpriteFont font14;
 
         //Botón
         private Vector2 buttonSize;

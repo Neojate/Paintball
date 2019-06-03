@@ -4,47 +4,47 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/fonts/arial_12.spritefont</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/fonts/arial_14.spritefont</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/fonts/arial_24.spritefont</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/fonts/arial_60.spritefont</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/alfaHover.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/bckShop.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/black_pixel.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/components/alert_bck.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/components/hoverButton.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/components/menu_background.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/components/skillline.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/icons.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/keyboard.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/map/grassmap.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/map/pod.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/map/podmap.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/markers/marker_eclipsegeo.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/markers/marker_empireaxe.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/markers/marker_spydervictor.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/markers/marker_t68.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/markers/marker_tp98.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/markers/marker_tpa5.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/obstacles/obstacles.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/options/leftArrow.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/options/leftArrowHover.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/options/rightArrow.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/options/rightArrowHover.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/p2w_title.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/bodytotalanim.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/headtotalanim.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/masktotalanim.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/skill1.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/skill2.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/skill3.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/skill4.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/player/skill5.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/prova.jpg</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/shoot.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/GFX/white_pixel.png</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/videos/background.mp4</File>
-    <File>C:/Users/Catalina/Desktop/Mis documentos/Embajada de Albert/TFG/Ruben/Proyecto/Content/videos/intro.mp4</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/fonts/arial_12.spritefont</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/fonts/arial_14.spritefont</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/fonts/arial_24.spritefont</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/fonts/arial_60.spritefont</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/alfaHover.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/bckShop.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/black_pixel.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/components/alert_bck.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/components/hoverButton.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/components/menu_background.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/components/skillline.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/icons.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/keyboard.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/map/grassmap.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/map/pod.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/map/podmap.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/markers/marker_eclipsegeo.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/markers/marker_empireaxe.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/markers/marker_spydervictor.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/markers/marker_t68.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/markers/marker_tp98.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/markers/marker_tpa5.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/obstacles/obstacles.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/options/leftArrow.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/options/leftArrowHover.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/options/rightArrow.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/options/rightArrowHover.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/p2w_title.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/bodytotalanim.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/headtotalanim.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/masktotalanim.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/skill1.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/skill2.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/skill3.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/skill4.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/player/skill5.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/prova.jpg</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/shoot.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/GFX/white_pixel.png</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/videos/background.mp4</File>
+    <File>C:/Users/dakot/Documents/Proyecto-Consola/Proyecto/Content/videos/intro.mp4</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

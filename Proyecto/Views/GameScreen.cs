@@ -82,7 +82,6 @@ namespace Proyecto
                 playerWin = true;
                 ScreenManager.AddScreen(new StartEndScreen(language.getMessage("startEnd_win"), false));                
             }
-
         }
 
         public override void Draw()
@@ -112,7 +111,6 @@ namespace Proyecto
                 Globals.spriteBatch.DrawString(Fonts.arial_12, language.getMessage("player_mode"), new Vector2(400, 10), Color.White);
             }
             
-
             Globals.spriteBatch.End();
         }        
 
