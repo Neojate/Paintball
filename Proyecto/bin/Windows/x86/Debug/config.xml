@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <resolution>
+    <X>800</X>
+    <Y>600</Y>
+  </resolution>
+  <fullScreen>false</fullScreen>
+  <difficult>0</difficult>
+  <language>0</language>
+</Options>

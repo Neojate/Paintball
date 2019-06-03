@@ -1,0 +1,380 @@
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dakot\source\repos\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dakot\source\repos\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\source\repos\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\dakot\source\repos\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\dakot\source\repos\Proyecto\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova_background.xnb
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova_background.xnb
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dakot\Documents\Paintball-master\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dakot\Documents\Paintball-master\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Documents\Paintball-master\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\Documents\Paintball-master\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Paintball-master\Proyecto\obj\x86\Debug\Proyecto.pdb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\obj\x86\Debug\Proyecto.exe
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\obj\x86\Debug\Proyecto.pdb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova_background.xnb
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\dakot\Desktop\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova_background.xnb
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Paintball-albert\Proyecto\obj\x86\Debug\Proyecto.pdb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\grassmap.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova_background.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\grassmap.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Paintball\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\grassmap.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova_background.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\faroles.wmv
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\faroles.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.mp4
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.mp4
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.mp4
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\grassmap.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\headtotalanim.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\masktotalanim.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\bodytotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\mainmenu.mp4
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\bodyanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\bodyfinal.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\bodytotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\headanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\headtotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\markeranim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\markerfinal.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\markertotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\markertotalanimprueba.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\maskanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\maskfinal.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\masktotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\playerfinal.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\mainmenu.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\white_pixel.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\menu_background.xnb
+C:\Users\dakot\Documents\Proyecto-Git-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\back_title.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\white_pixel.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\menu_background.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\bodytotalanim.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\headtotalanim.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\masktotalanim.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\pod.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\background.mp4
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\background.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\background.mp4
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.mp4
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\bodytotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\headtotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\masktotalanim.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\grassmap.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\pod.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\menu_background.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\background.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\videos\Intro.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\prova.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\white_pixel.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_12.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\obj\x86\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\obj\x86\Debug\Proyecto.csproj.CopyComplete
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\rightArrow.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\leftArrow.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\leftArrowHover.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\rightArrowHover.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\hoverButton.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\hoverButton.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\leftArrow.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\leftArrowHover.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\rightArrow.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\rightArrowHover.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\podmap.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\podmap.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\background.mp4
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\leftArrow.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\leftArrowHover.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\rightArrow.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\options\rightArrowHover.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\pod.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\map\podmap.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\hoverButton.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\menu_background.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\videos\background.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\white_pixel.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\obstacles\obstacle.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\obstacles\obstacle.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\obstacles\obstacle.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\alfaHover.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\alfaHover.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\shoot.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\obstacles\obstacles.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\obstacles\obstacles.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\shoot.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\alfaHover.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\shoot.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\obstacles\obstacles.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_spydervictor.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_tpa5.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_t68.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_tp98.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_spydervictor.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_t68.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_tp98.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_tpa5.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_eclipsegeo.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_empireaxe.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_eclipsegeo.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_empireaxe.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_spydervictor.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_t68.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_tp98.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_tpa5.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill1.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill2.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill3.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill4.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill5.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill1.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill2.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill3.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill4.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill5.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\skillline.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\skillline.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\bckShop.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\bckShop.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\bckShop.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\skillline.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_eclipsegeo.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\markers\marker_empireaxe.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill1.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill2.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill3.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill4.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\player\skill5.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\icons.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\black_pixel.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_24.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\alert_bck.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_24.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\alert_bck.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\black_pixel.xnb
+E:\Mis documentos\Grado Informatica\TFG\Ramas\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\icons.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_24.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\black_pixel.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\icons.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\components\alert_bck.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_60.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\Fonts\arial_60.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\keyboard.xnb
+C:\Users\dakot\Documents\Proyecto-Consola\Proyecto\bin\Windows\x86\Debug\Content\GFX\p2w_title.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\keyboard.xnb
+C:\Users\Catalina\Desktop\Mis documentos\Embajada de Albert\TFG\Ruben\Proyecto\bin\Windows\x86\Debug\Content\GFX\p2w_title.xnb
